@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS410: Advanced Databases"
+course_description: "An advanced study of topics in database systems, including query optimization, concurrency, data warehouses, object-oriented extensions, and XML."
+next: ../Unit08
+previous: ../Unit06
+---
 **Unit 7: Object-Oriented and Object-Relational Databases** <span
 id="7"></span> 
 *As object-oriented programming gained popularity in the 1990s,

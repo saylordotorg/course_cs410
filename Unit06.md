@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS410: Advanced Databases"
+course_description: "An advanced study of topics in database systems, including query optimization, concurrency, data warehouses, object-oriented extensions, and XML."
+next: ../Unit07
+previous: ../Unit05
+---
 **Unit 6: Data Warehousing** <span id="6"></span> 
 *Traditionally, database management systems have been used for
 transaction processing.  Recently, however, the field has seen a trend

@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS410: Advanced Databases"
+course_description: "An advanced study of topics in database systems, including query optimization, concurrency, data warehouses, object-oriented extensions, and XML."
+next: ../Unit01
+previous: ../../../
+---
 Course Syllabus for "CS410: Advanced Databases"
 -----------------------------------------------
 

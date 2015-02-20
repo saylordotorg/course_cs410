@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS410: Advanced Databases"
+course_description: "An advanced study of topics in database systems, including query optimization, concurrency, data warehouses, object-oriented extensions, and XML."
+next: ../Unit06
+previous: ../Unit04
+---
 **Unit 5: Database System Architectures** <span id="5"></span> 
 *Databases often need to be distributed across a number of different
 locations, especially because today’s global companies need to be able

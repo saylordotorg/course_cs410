@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS410: Advanced Databases"
+course_description: "An advanced study of topics in database systems, including query optimization, concurrency, data warehouses, object-oriented extensions, and XML."
+next: ../Unit02
+previous: ../Intro
+---
 **Unit 1: Advanced SQL** <span id="1"></span> 
 *In this unit, we will look at SQL DML commands beyond the basic
 “select,“join,” and “group by,” as you will sometimes find it useful to

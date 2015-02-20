@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS410: Advanced Databases"
+course_description: "An advanced study of topics in database systems, including query optimization, concurrency, data warehouses, object-oriented extensions, and XML."
+next: ../Unit09
+previous: ../Unit07
+---
 **Unit 8: XML and Databases** <span id="8"></span> 
 *While HTML is used to display data on webpages, XML is used to describe
 data and has quickly become a standard for transmitting data between

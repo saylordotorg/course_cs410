@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS410: Advanced Databases"
+course_description: "An advanced study of topics in database systems, including query optimization, concurrency, data warehouses, object-oriented extensions, and XML."
+next: ../Unit03
+previous: ../Unit01
+---
 **Unit 2: Stored Procedures and Triggers** <span id="2"></span> 
 *Much of the work of database retrieval can be done on the server side
 as opposed to the client side.  The server can execute commands more

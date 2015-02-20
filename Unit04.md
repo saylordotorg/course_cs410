@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS410: Advanced Databases"
+course_description: "An advanced study of topics in database systems, including query optimization, concurrency, data warehouses, object-oriented extensions, and XML."
+next: ../Unit05
+previous: ../Unit03
+---
 **Unit 4: Concurrency and Recovery** <span id="4"></span> 
 *Database management systems must be able to support concurrency—that
 is, they must be able to support multiple users and processes accessing

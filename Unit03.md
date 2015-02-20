@@ -1,3 +1,10 @@
+---
+layout: default
+title: "CS410: Advanced Databases"
+course_description: "An advanced study of topics in database systems, including query optimization, concurrency, data warehouses, object-oriented extensions, and XML."
+next: ../Unit04
+previous: ../Unit02
+---
 **Unit 3: Query Optimization** <span id="3"></span> 
 *Queries written in SQL do not always run efficiently.  However, there
 are a number of techniques that you can use to optimize them.  In this
