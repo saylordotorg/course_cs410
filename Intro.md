@@ -60,7 +60,7 @@ computer.
  √    Be competent in the English language.  
   
  √    Have read the [Saylor Student
-Handbook.](https://resources.saylor.org/archived/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)  
+Handbook.](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2012/05/Saylor-StudentHandbook.pdf)  
   
  √    Have access to a relational database management system.  A good
 open-source option is MySQL ([dev.mysql.com](http://dev.mysql.com)).  
